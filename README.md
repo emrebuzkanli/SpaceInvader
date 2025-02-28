@@ -9,11 +9,11 @@ This repository contains my Space Invader Game implementation.
 
 ## 📂 Repository Structure  
 
-📜 **src/** → Contains source code files for the game and the assets
+📜 **src/** → Contains source code files for the game and the assets  
 
-📄 **Checklist.pdf** → Requirement checklist  
+📄 **README.md** → Documentation for setup and execution
 
-📄 **README.md** → Documentation for setup and execution    
+📷 **IMAGES.md** → Images from the game
 
 ---
 
